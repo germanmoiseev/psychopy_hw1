@@ -1,0 +1,17 @@
+color,word,ans,congruent
+red,red,r,1
+yellow,yellow,y,1
+green,green,g,1
+blue,blue,b,1
+red,yellow,r,0
+red,green,r,0
+red,blue,r,0
+yellow,red,y,0
+yellow,green,y,0
+yellow,blue,y,0
+green,red,g,0
+green,yellow,g,0
+green,blue,g,0
+blue,red,b,0
+blue,yellow,b,0
+blue,green,b,0
