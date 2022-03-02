@@ -1,8 +1,6 @@
 library(readr)
 library(ggplot2)
-#data <- read_csv("Path/To/data.csv")
-data <- read_csv("Desktop/Neurotech/PsychoPy/data/g_hw_test_2022_Mar_02_1342.csv")
-data <- data[-1,]
+data <- read_csv("Path/To/data.csv")
 sum.stats <- data.frame(whichstat = c("med_all",
                                       "med_cong",
                                       "med_noncong"),
